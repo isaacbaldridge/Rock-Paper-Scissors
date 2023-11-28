@@ -4,6 +4,10 @@ This was my first project using Python3. A simple rock, paper, scissors game to 
 ## Set-Up
 0.) Ensure that you have [Python installed](https://realpython.com/installing-python/#how-to-install-from-the-full-installer) on your machine.
 
+**OR**
+
+Play the game on my [Replit](https://replit.com/@baldridgela/Rock-Paper-Scissors#main.py).
+
 1.) Fork the repo and clone it down using the SSH key. Copy and paste code below in your preferred directory in your terminal.
 `git clone git@github.com:isaacbaldridge/Rock-Paper-Scissors.git`
 
